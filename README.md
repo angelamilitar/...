@@ -22,7 +22,7 @@
                                     <dd>
                                         <h4>SQL and Relational Databases 101</h4>
                                         <p>Cognitive Class</p>
-                                        <a href="[paste-your-certificate-link-here](6dd8ba510a6943498c2e7d54bd5a06f0#)" target="_blank">View Certificate</a>
+                                        <a href="6dd8ba510a6943498c2e7d54bd5a06f0" target="_blank">View Certificate</a>
                                     </dd>
 
                         </dl>
