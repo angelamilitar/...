@@ -47,11 +47,7 @@
 <!-- FONTAWESOME JS -->
 
 <!-- CUSTOM JS -->
-<script>
-   {
-        window.print();
-    }
-</script>
+
 </body>
 
 </html>
