@@ -35,7 +35,7 @@
                                     <p>2023 - Present
                                         <p>9 Central Ave, New Era, Quezon City, 1107 Metro Manila
                                             <ul>
-                        </dl>
+                  
                         
     </div>
 </body>
