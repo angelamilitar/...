@@ -17,15 +17,14 @@
                     <p id="objective">I am diligent and forward-thinking computer science student with a dedicated commitment to ongoing education. Possessing a robust proficiency in programming languages, algorithms, and software development, I am currently pursuing Computer Science at New Era Univeristy. Eager to leverage my theoretical knowledge in practical scenarios, I aim to contribute meaningfully to real-world projects within a professional setting.
                         </dl>
                         <dl>
-                            <h2>COURSES/CERTIFICATIONS</h2>
-                            <dd>
-                                <h4>Microsoft Certified: Azure AI Engineer Associate</h4>
-                                <p>MICROSOFT
-                                    <h4>CompTIA Security+</h4>
-                                    <p>CompTIA
-                                        <h4>Oracle Certified Associate, Java SE Programmer</h4>
-                                        <p>Oracle University
-                                            <ul>
+                            
+                                <h2>CERTIFICATIONS</h2>
+                                    <dd>
+                                        <h4>SQL and Relational Databases 101</h4>
+                                        <p>Cognitive Class</p>
+                                        <a href="[paste-your-certificate-link-here](https://courses.cognitiveclass.ai/certificates/6dd8ba510a6943498c2e7d54bd5a06f0#)" target="_blank">View Certificate</a>
+                                    </dd>
+
                         </dl>
                         <dl>
                             <h2>EDUCATION</h2>
