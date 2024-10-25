@@ -36,21 +36,7 @@
                                         <p>9 Central Ave, New Era, Quezon City, 1107 Metro Manila
                                             <ul>
                         </dl>
-                        <dl>
-                            <h1>CHARACTER REFERENCES</h1>
-                            <h4>Jojo M. Labio</h4>
-                            <p>jojolabiom@gmail.com</p>
-                            <p>Ernst & Young Global Services (Philippines) Inc</p>
-                            <p>Data Analyst</p>
-                            <h4>Kevin R. Malinao </h4>
-                            <p>kevzmalinao@gmail.com</p>
-                            <p>PCWORX IT Solutions Inc.</p>
-                            <p>Software Engineer</p>
-                            <h4>Jayvee Lao</h4>
-                            <p>laojayvee@gmail.com</p>
-                            <p>Shield Foundry</p>
-                            <p>System Analyst</p>
-    </div>
+                        
     </div>
 </body>
 
