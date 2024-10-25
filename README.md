@@ -45,7 +45,7 @@
 <button>Print CV</button>
 
 <!-- FONTAWESOME JS -->
-<script src="C:\Users\Lenovo\Downloads\intex"></script>
+
 <!-- CUSTOM JS -->
 <script>
     var btn = document.querySelector("button");
