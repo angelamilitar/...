@@ -10,7 +10,7 @@
 <body>
     <div id="resume">
         <h1>Hi there, I'm Angela R. Militar! 👋</h1>
-                    <p id="objective">I am diligent and forward-thinking computer science student with a dedicated commitment to ongoing education. I am currently pursuing Computer Science at New Era Univeristy. Eager to leverage my theoretical knowledge in practical scenarios, I aim to contribute meaningfully to real-world projects within a professional setting.
+                    <p id="objective">I am diligent and forward-thinking computer science student with a dedicated commitment to ongoing education. Eager to leverage my theoretical knowledge in practical scenarios, I aim to contribute meaningfully to real-world projects within a professional setting.
                         </dl>
                         <dl>
                              <h2
@@ -24,11 +24,10 @@ BS Computer Science
 <a href="6dd8ba510a6943498c2e7d54bd5a06f0" target="_blank">SQL and Relational Databases 101</a>
                                     </dd>
                        <h2>Skill Sets</h2>
-Programming: Java, JavaScript
-Databases: IBM DB2 Cloud
-Tools: Lucidchart, Jaspersoft Studio, Eclipse, HTML
-Let's Connect!
-<p>Email: angela.rmilitar@gmail.com</p>
+
+<p>Programming Languages: Python, C++, Java<br>Web Technologies: HTML, CSS<br>Databases: MySQL, PostgreSQL <br>Tools: Visual Studio Code, Git,</p>
+
+<p>Let’s Connect!<br>Email: angela.rmilitar@gmail.com</p>
                             
 
 </body>
