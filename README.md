@@ -9,7 +9,7 @@
 </head>
 <body>
     <div id="resume">
-        <h1>Hi there, I'm Angela R. Militar 👋</h1>
+        <h1>Hi there, I'm Angela R. Militar! 👋</h1>
                     <p id="objective">I am diligent and forward-thinking computer science student with a dedicated commitment to ongoing education. I am currently pursuing Computer Science at New Era Univeristy. Eager to leverage my theoretical knowledge in practical scenarios, I aim to contribute meaningfully to real-world projects within a professional setting.
                         </dl>
                         <dl>
