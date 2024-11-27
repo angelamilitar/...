@@ -19,8 +19,12 @@ BS Computer Science
 <br>New Era University
 2023-Present
                             <h2
+
  ## Certification
   - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/3e3b89f507524613a5df424c0147b6d2)
+
+ ## Certification
+  - [eCertificate OCI Associate ](https://drive.google.com/file/d/14nS9QZ9g4-p7WVMiW7mhAE_KhABfeuDJ/view)
         
                                    
 <dd>
