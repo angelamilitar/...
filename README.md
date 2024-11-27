@@ -27,12 +27,7 @@ BS Computer Science
   - [eCertificate OCI Associate ](https://drive.google.com/file/d/14nS9QZ9g4-p7WVMiW7mhAE_KhABfeuDJ/view)
         
                                    
-<dd>
-<a href="(https://courses.cognitiveclass.ai/certificates/6dd8ba510a6943498c2e7d54bd5a06f0)" target="_blank">SQL and Relational Databases 101</a>
-                                    </dd>
-<dd>
-<a href="https://drive.google.com/drive/u/1/folders/1odDhkYKS8jDYduz7ifpvycv14RPcTsCZ" target="_blank">eCertificate OCI Associate </a>
-                                    </dd>
+
                        <h2>Skill Sets</h2>
 
 <p>Programming Languages: Python, C++, Java<br>Web Technologies: HTML, CSS<br>Databases: MySQL, PostgreSQL <br>Tools: Visual Studio Code, Git,</p>
