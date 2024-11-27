@@ -20,8 +20,13 @@ BS Computer Science
 2023-Present
                             <h2
         <h2>Certifications</h2>
-                                    <dd>
-<a href="6dd8ba510a6943498c2e7d54bd5a06f0" target="_blank">SQL and Relational Databases 101</a>
+                                    <a href="(https://courses.cognitiveclass.ai/certificates/6dd8ba510a6943498c2e7d54bd5a06f0)" target="_blank">SQL and Relational Databases 101</a>
+                                    </dd>
+<dd>
+<a href="https://drive.google.com/drive/u/1/folders/1odDhkYKS8jDYduz7ifpvycv14RPcTsCZ" target="_blank">SQL and Relational Databases 101</a>
+                                    </dd>
+<dd>
+<a href="https://drive.google.com/drive/u/1/folders/1odDhkYKS8jDYduz7ifpvycv14RPcTsCZ" target="_blank">SQL and Relational Databases 101</a>
                                     </dd>
                        <h2>Skill Sets</h2>
 
